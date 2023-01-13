@@ -3,11 +3,7 @@
 
 ## Application Overview:
 
-#### We will be using a mongo-express app which is a WebUI created in ExpressJS to interact with
-
-#### mongoDB and deploy it in Kubernetes cluster. We will be using Minikube to simulate the
-
-#### Kubernetes on local machine.
+ We will be using a mongo-express app which is a WebUI created in ExpressJS to interact with mongoDB and deploy it in Kubernetes cluster. We will be using Minikube to simulate the Kubernetes on local machine.
 
 - There will be 3 replicas of web app.
 - The user can access the application at the url provided by the service.
